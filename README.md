@@ -10,3 +10,5 @@ Technologies: SQL, PHP, HTML, CSS, JavaScript, Bootstrap , Laravel.
 Templates: Cool Admin for the admin side:
 
 To-Do: Work on having a notifications panel: 
+
+Tables: blogPosts, programs, homePage, messages. 
